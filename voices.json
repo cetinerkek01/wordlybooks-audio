@@ -6,6 +6,12 @@
     "name": "Heart",
     "gender": "female",
     "accent": "US"
+   },
+   {
+    "id": "bf_emma",
+    "name": "Emma",
+    "gender": "female",
+    "accent": "UK"
    }
   ],
   "books": [
