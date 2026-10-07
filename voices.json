@@ -18,6 +18,12 @@
     "name": "Nicole",
     "gender": "female",
     "accent": "US"
+   },
+   {
+    "id": "am_michael",
+    "name": "Michael",
+    "gender": "male",
+    "accent": "US"
    }
   ],
   "books": [
