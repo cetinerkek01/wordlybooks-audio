@@ -12,6 +12,12 @@
     "name": "Emma",
     "gender": "female",
     "accent": "UK"
+   },
+   {
+    "id": "af_nicole",
+    "name": "Nicole",
+    "gender": "female",
+    "accent": "US"
    }
   ],
   "books": [
