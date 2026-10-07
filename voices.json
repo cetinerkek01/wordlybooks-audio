@@ -1,0 +1,28 @@
+{
+ "en": {
+  "voices": [
+   {
+    "id": "af_heart",
+    "name": "Heart",
+    "gender": "female",
+    "accent": "US"
+   }
+  ],
+  "books": [
+   "alice",
+   "gingerbread-man",
+   "goldilocks",
+   "hansel-gretel",
+   "littleprince",
+   "peter-rabbit",
+   "pinocchio",
+   "puss-in-boots",
+   "sherlock",
+   "snow-queen",
+   "squirrel-nutkin",
+   "thumbelina",
+   "ugly-duckling",
+   "velveteen-rabbit"
+  ]
+ }
+}
