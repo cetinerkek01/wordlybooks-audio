@@ -36,6 +36,12 @@
     "name": "Sarah",
     "gender": "female",
     "accent": "US"
+   },
+   {
+    "id": "af_sky",
+    "name": "Sky",
+    "gender": "female",
+    "accent": "US"
    }
   ],
   "books": [
