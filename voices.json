@@ -24,6 +24,12 @@
     "name": "Michael",
     "gender": "male",
     "accent": "US"
+   },
+   {
+    "id": "bm_george",
+    "name": "George",
+    "gender": "male",
+    "accent": "UK"
    }
   ],
   "books": [
