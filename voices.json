@@ -42,6 +42,12 @@
     "name": "Sky",
     "gender": "female",
     "accent": "US"
+   },
+   {
+    "id": "bf_isabella",
+    "name": "Isabella",
+    "gender": "female",
+    "accent": "UK"
    }
   ],
   "books": [
