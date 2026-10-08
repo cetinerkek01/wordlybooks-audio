@@ -30,6 +30,12 @@
     "name": "George",
     "gender": "male",
     "accent": "UK"
+   },
+   {
+    "id": "af_sarah",
+    "name": "Sarah",
+    "gender": "female",
+    "accent": "US"
    }
   ],
   "books": [
